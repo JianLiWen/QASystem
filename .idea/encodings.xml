@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/file" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/Dictionary/自定义分词词典/分词表扩展.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file/ICTCLAS2019/Data/NLPIR.user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/preprocessing/dictionaryManage/DeleteEmptyNRepetition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/preprocessing/dictionaryManage/VocabularyGeneration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/preprocessing/resultIntegration/ResultIntegration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

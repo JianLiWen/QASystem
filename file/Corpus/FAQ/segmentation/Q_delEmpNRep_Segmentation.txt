@@ -1,0 +1,108 @@
+什么 是 Java 虚拟机 ？ 为什么 Java 被 称作 是 “ 平 台 无关 的 编程 语言 ” ？ 
+ArrayList 和 LinkedList 有 什么 区别 ？ 
+为什么 集合 类 没有 实现 Cloneable 和 Serializable 接口 ？ 
+hashCode ( ) 和 equals ( ) 方法 的 重要性 体现 在 什么 地方 ？ 
+数组 ( Array ) 和 列表 ( ArrayList ) 有 什么 区别 ？ 什么 时候 应该 使用 Array 而 不 是 ArrayList ？ 
+HashMap 和 Hashtable 有 什么 区别 ？ 
+Java 中 的 HashMap 的 工作 原理 是 什么 ？ 
+Java 集合 类 框架 的 基本 接口 有 哪些 ？ 
+什么 是 迭 代 器 ( Iterator ) ？ 
+Iterator 和 ListIterator 的 区别 是 什么 ？ 
+如何 确保 N 个 线程 可以 访问 N 个 资源 同时 又 不 导致 死锁 ？ 
+在 监视器 ( Monitor ) 内部 ， 是 如何 做 线程 同步 的 ？ 程序 应该 做 哪 种 级别 的 同步 ？ 
+创建 线程 有 几 种 不同 的 方式 ？ 你 喜欢 哪 一 种 ？ 为什么 ？ 
+继承 的 定义 ？ 
+多 态 的 定义 ？ 
+封装 的 定义 和 好处 有 哪些 ？ 
+面向 对象 软件 开发 的 优点 有 哪些 ？ 
+隐含 对象 是 什么 意思 ？ 有 哪些 隐含 对象 ？ 
+什么 是 表达式 ( Expression ) ？ 
+声明 ( Decalaration ) 在 哪里 ？ 
+什么 是 Scriptlets ？ 
+什么 是 JSP 动作 ( JSP   action ) ？ 
+什么 是 JSP 指令 ( Directive ) ？ JSP 中 有 哪些 不同 类型 的 指令 ？ 
+JSP 有 什么 优点 ？ 
+JSP 请求 是 如何 被 处理 的 ？ 
+什么 是 JSP 页面 ？ 
+什么 是 URL 编码 和 URL 解码 ？ 
+sendRedirect ( ) 和 forward ( ) 方法 有 什么 区别 ？ 
+什么 是 HTTP 隧道 ？ 
+浏览器 和 Servlet 通信 使用 的 是 什么 协议 ？ 
+什么 是 cookie ？ session 和 cookie 有 什么 区别 ？ 
+HTTP 响应 的 结构 是 怎么样 的 ？ 
+如何 知道 是 哪 一个 客户端 的 机器 正在 请求 你 的 Servlet ？ 
+什么 是 Servlet 链 ( Servlet   Chaining ) ？ 
+什么 是 服务端 包含 ( Server   Side   Include ) ？ 
+什么 是 Web 应用 程序 ？ 
+doGet ( ) 方法 和 doPost ( ) 方法 有 什么 区别 ？ 
+解释 下 Servlet 的 生命 周期 。 
+Applet 和 Servlet 有 什么 区别 ？ 
+说 一下 Servlet 的 体系 结构 。 
+什么 是 Servlet ？ 
+解释 下 Serialization 和 Deserialization 。 
+解释 下 Marshalling 和 demarshalling 。 
+RMI 中 使用 RMI 安全 管理 器 ( RMISecurityManager ) 的 目的 是 什么 ？ 
+什么 是 分布式 垃圾 回收 ( DGC ) ？ 它 是 如何 工作 的 ？ 
+RMI 的 stub 扮演 了 什么样 的 角色 ？ 
+让 RMI 程序 能 正确 运行 有 哪些 步骤 ？ 
+Naming 类 的 bind ( ) 和 rebind ( ) 方法 有 什么 区别 ？ 
+RMI 的 绑定 ( Binding ) 是 什么 意思 ？ 
+RMI 中 的 远程 接口 ( Remote   Interface ) 扮演 了 什么样 的 角色 ？ 
+java.rmi.Naming 类 扮演 了 什么样 的 角色 ？ 
+RMI 体系 结构 分 哪 几 层 ？ 
+RMI 体系 结构 的 基本 原则 是 什么 ？ 
+什么 是 RMI ？ 
+数据库 连接池 是 什么 意思 ？ 
+什么 时候 使用 CallableStatement ？ 用 来 准备 CallableStatement 的 方法 是 什么 ？ 
+PreparedStatement 比 Statement 有 什么 优势 ？ 
+解释 下 驱动 ( Driver ) 在 JDBC 中 的 角色 。 
+什么 是 JDBC ？ 
+Java 的 Swing 组 件 使用 了 哪 种 设计 模式 ？ 
+Java 的 布局 管理 器 比 传统 的 窗口 系统 有 哪些 优势 ？ 
+GUI 组 件 如何 来 处理 它 自己 的 事件 ？ 
+事件 监听器 接口 ( event - listener   interface ) 和 事件 适配器 ( event - adapter ) 有 什么 关系 ？ 
+裁剪 ( clipping ) 和 重 绘 ( repainting ) 有 什么 联系 ？ 
+Window 和 Frame 有 什么 区别 ？ 
+网格 包 布局 ( GridBagLayout ) 里面 的 元素 是 如何 布局 的 ？ 
+边缘 布局 ( BorderLayout ) 里面 的 元素 是 如何 布局 的 ？ 
+MenuItem 和 CheckboxMenuItem 的 区别 是 什么 ？ 
+什么 是 裁剪 ( clipping ) ？ 
+说 出 三 种 支持 重 绘 ( painting ) 的 组件 。 
+哪些 Swing 的 方法 是 线程 安全 的 ？ 
+滚动 条 ( Scrollbar ) 和 滚动 面板 ( JScrollPane ) 有 什么 区别 ？ 
+什么 是 布局 管理 器 ？ 
+弹 出 式 选择 菜单 ( Choice ) 和 列表 ( List ) 有 什么 区别 
+applet 安全 管理 器 是 什么 ？ 它 会 做 哪些 工作 ？ 
+applet 类 加 载 器 是 什么 ？ 它 会 做 哪些 工作 ？ 
+从 网络 上 加 载 的 applet 和 从 本地 文件 系统 加 载 的 applet 有 什么 区别 ？ 
+什么 是 不 受 信任 的 applet ？ 
+Java   applet 有 哪些 限制 条件 ？ 
+Applet 和 普通 的 Java 应用 程序 有 什么 区别 ？ 
+当 applet 被 载入 的 时候 会 发生 什么 ？ 
+解释 一下 Applet 的 生命 周期 
+什么 是 Applet ？ 
+finally 代码 块 和 finalize ( ) 方法 有 什么 区别 ？ 
+异常 处理 完成 以后 ， Exception 对象 会 发生 什么 变化 ？ 
+Java 中 Exception 和 Error 有 什么 区别 ？ 
+Java 中 的 两 种 异常 类型 是 什么 ？ 他们 有 什么 区别 ？ 
+JVM 的 永久代 中 会 发生 垃圾 回收 么 ？ 
+在 Java 中 ， 对象 什么 时候 可以 被 垃圾 回收 ？ 
+串行 ( serial ) 收集 器 和 吞吐量 ( throughput ) 收集 器 的 区别 是 什么 ？ 
+Java 堆 的 结构 是 什么 样子 的 ？ 什么 是 堆 中 的 永久代 ( Perm   Gen   space ) ? 
+如果 对象 的 引用 被 置 为 null ， 垃圾收集器 是否 会 立即 释放 对象 占用 的 内存 ？ 
+System.gc ( ) 和 Runtime.gc ( ) 会 做 什么 事情 ？ 
+Enumeration 接口 和 Iterator 接口 的 区别 有 哪些 ？ 
+HashSet 和 TreeSet 有 什么 区别 ？ 
+Java 集合 类 框架 的 最佳 实践 有 哪些 ？ 
+如何 权衡 是 使用 无序 的 数组 还是 有序 的 数组 ？ 
+你 了解 大 O 符号 ( big - O   notation ) 么 ？ 你 能 给 出 不同 数据 结构 的 例子 么 ？ 
+什么 是 Java 优先级 队列 ( Priority   Queue ) ？ 
+Comparable 和 Comparator 接口 是 干什么 的 ？ 列 出 它们 的 区别 。 
+Java 支持 多 继承 么 ？ 
+接口 和 抽象 类 的 区别 是 什么 ？ 
+Java 中 的 方法 覆盖 ( Overriding ) 和 方法 重载 ( Overload ) 是 什么 意思 ？ 
+Java 中 ， 什么 是 构造 方法 ？ 什么 是 构造 方法 重载 ？ 什么 是 复制 构造 方法 ？ 
+Java 支持 的 数据 类型 有 哪些 ？ 什么 是 自动 拆 装箱 ？ 
+” static ” 关键字 是 什么 意思 ？ Java 中 是否 可以 覆盖 ( override ) 一个 private 或者 是 static 的 方法 ？ 
+是否 可以 在 static 环境 中 访问 非 static 变量 ？ 
+什么 是 死锁 ( deadlock ) ？ 
